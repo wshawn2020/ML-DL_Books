@@ -1,1 +1,1 @@
-# competency_build_up
+# The learning books of machine learning and deep learning topics.
